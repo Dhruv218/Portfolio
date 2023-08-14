@@ -33,7 +33,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src={HeroImg} alt="hero-image" />
+                        <Img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1658659483/Avatars/bij30o9acvln7aplycm0.jpg" alt="hero-image" />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
