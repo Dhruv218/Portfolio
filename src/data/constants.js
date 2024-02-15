@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Dhruv218#",
   resume:
-    "https://drive.google.com/file/d/1y8MOuUaBdOxanYytrXxXytWuWLFfOZmf/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1XIROi3lTLPYJiLKIwq7Gu6G1sAs5cwC8?usp=sharing",
   linkedin: "https://www.linkedin.com/in/dhruvaggarwal101",
 };
 
@@ -141,18 +141,30 @@ export const experiences = [
     img: "https://s3.ap-south-1.amazonaws.com/assets.ynos.in/startup-logos/YNOS326597.png",
     role: "Frontend Developer Intern",
     company: "Across The Globe",
-    date: "Jan 2023 - Aug 2023",
-    desc: "Developed user-friendly web applications leveraging the capabilities of HTML5, CSS3, JavaScript, and Bootstrap. To enhance responsiveness and performance, I implemented asynchronous request handling. Beyond just development, I took on a mentorship role, conducting code reviews and offering constructive feedback to ensure the highest quality of the software. My focus was always on adhering to coding standards and best practices to produce maintainable code. Throughout these projects, I utilized Git for version control, fostering seamless collaboration and maintaining a comprehensive project history.",
+    date: "Jan 2023 - Jan 2024",
+    desc: `Developed web applications using HTML5, CSS3, JavaScript,
+    Bootstrap, React.js, React Native, and Tailwind CSS.
+    Worked on 4 major projects, taking on the role of Tech Lead for
+    one, guiding technical choices, fostering team collaboration, and
+    upholding development best practices.
+    Implemented asynchronous request handling forimproved
+    responsiveness and performance.
+    Conducted code reviews and provided constructive feedback
+    for quality improvement and also Ensured adherence to coding
+    standards, best practices, and maintainable code.
+    Utilized Git for version control, collaboration, and project
+    history tracking.`,
     skills: [
       "HTML",
       "CSS",
       "JavaScript",
       "Bootstrap",
       "ReactJS",
-      "React Native",
+       "Nextjs",
       "PHP",
       "Git",
       "Github",
+      "React Native",
     ],
     doc: "",
   },
